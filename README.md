@@ -45,7 +45,12 @@
 ## Результаты
 
 Использование ИИ-ассистента позволяет значительно повысить эффективность работы с клиентами, уменьшить нагрузку на сотрудников и увеличить уровень удовлетворенности клиентов благодаря быстрому и качественному обслуживанию.
-
+## Screenshots
+[Картинки к проекту](https://github.com/jekaterinasikora/ai-personal-assistent/blob/main/Screenshot%202025-07-09%20132106.png?raw=true) 
+[Картинки к проекту](https://github.com/jekaterinasikora/ai-personal-assistent/blob/main/Screenshot%202025-07-09%20135449.png?raw=true) 
+[Картинки к проекту](https://github.com/jekaterinasikora/ai-personal-assistent/blob/main/Screenshot%202025-07-09%20135523.png?raw=true)
+[Картинки к проекту](https://github.com/jekaterinasikora/ai-personal-assistent/blob/main/Screenshot%202025-07-09%20135549.png?raw=true)
+[Картинки к проекту]()
 ---
 
 Если у вас есть вопросы или предложения по улучшению проекта, пожалуйста, свяжитесь с нами!
